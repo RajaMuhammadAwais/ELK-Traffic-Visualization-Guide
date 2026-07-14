@@ -4,7 +4,7 @@
 
 This comprehensive guide details the setup of an **ELK Stack** (Elasticsearch, Logstash, Kibana) for **real-time network traffic visualization**. We will integrate it with a high-performance **DPDK (Data Plane Development Kit)** and **nDPI (Deep Packet Inspection)** based traffic analyzer to provide deep insights into network flows, protocols, and security alerts. This setup is ideal for network monitoring, security analysis, and performance troubleshooting in high-throughput environments.
 
-## Prerequisites
+## Prerequisites 
 
 Before you begin, ensure you have:
 
